@@ -35,8 +35,7 @@
 ## Abstract
 Sickle cell anemia, which is characterized by abnormal erythrocyte morphology, can be detected using microscopic images. Computational techniques in medicine enhance the diagnosis and treatment efficiency. However, many computational techniques, particularly those based on Convolutional Neural Networks (CNNs), require high resources and time for training, highlighting the research opportunities in methods with low computational overhead. In this paper, we propose a novel approach combining conventional classifiers, segmented images, and CNNs for the automated classification of sickle cell disease. We evaluated the impact of segmented images on classification, providing insight into deep learning integration. Our results demonstrate that using segmented images and CNN features with an SVM achieves an accuracy of 96.80\%. This finding is relevant for computationally efficient scenarios, paving the way for future research and advancements in medical-image analysis.
 
-![Steps of the proposed approach](URL_da_imagem)
-
+![Steps of the proposed approach](steps.png)
 
 ## Acknowledgment
 - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
