@@ -38,6 +38,6 @@ Sickle cell anemia, which is characterized by abnormal erythrocyte morphology, c
 ![Steps of the proposed approach](steps.png)
 
 ## Acknowledgment
-- Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
 - FAPEMIG (Grant number CEX - APQ-02964-17)
+- Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
 - Federal University of Viçosa (UFV), Brazil
