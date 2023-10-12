@@ -1,6 +1,6 @@
 ## Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks
 
-### Paper available [here]([http://www.exemplo.com](https://sol.sbc.org.br/index.php/eniac/article/view/25713)){:target="_blank"}
+### Paper available <a href="https://sol.sbc.org.br/index.php/eniac/article/view/25713" target="_blank">here</a>
 
 
 #### Authors
