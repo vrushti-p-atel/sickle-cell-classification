@@ -1,6 +1,6 @@
 ## Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks
 
-### Paper available [here]("https://sol.sbc.org.br/index.php/eniac/article/view/25713/25529")
+### Paper available [here]("https://sol.sbc.org.br/index.php/eniac/article/view/25713")
 
 #### Authors
 - [Victor Cardoso](mailto:victor.cardoso@ufv.br)
@@ -13,18 +13,19 @@
 ```
 @inproceedings{Cardoso2023,
  author = {Victor Cardoso and Rodrigo Moreira and João Mari and Larissa Rodrigues Moreira},
- title = {Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks},
+title = {Improving Sickle Cell Disease Classification: A Fusion of Conventional Classifiers, Segmented Images, and Convolutional Neural Networks},
  booktitle = {Anais do XX Encontro Nacional de Inteligência Artificial e Computacional},
  location = {Belo Horizonte/MG},
  year = {2023},
  keywords = {},
  issn = {2763-9061},
- pages = {},
+ pages = {345--358},
  publisher = {SBC},
  address = {Porto Alegre, RS, Brasil},
- doi = {},
- url = {}
+ doi = {10.5753/eniac.2023.234076},
+ url = {https://sol.sbc.org.br/index.php/eniac/article/view/25713}
 }
+
 
 ```
 
