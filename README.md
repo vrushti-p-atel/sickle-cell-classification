@@ -2,13 +2,6 @@
 
 ### Paper available <a href="https://sol.sbc.org.br/index.php/eniac/article/view/25713" target="_blank">here</a>
 
-
-#### Authors
-- [Victor Cardoso](mailto:victor.cardoso@ufv.br)
-- [Rodrigo Moreira](mailto:rodrigo@ufv.br)
-- [João Fernando Mari](mailto:joaof.mari@ufv.br)
-- [Larissa F. Rodrigues Moreira](mailto:larissa.f.rodrigues@ufv.br)
-
 ## Citation
 
 ```
@@ -43,3 +36,41 @@ Sickle cell anemia, which is characterized by abnormal erythrocyte morphology, c
 - FAPEMIG (Grant number CEX - APQ-02964-17)
 - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
 - Federal University of Viçosa (UFV), Brazil
+
+## Authors
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/victoralcantara75" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/27792114?v=4" width="100px;" alt="Victor J. Alcântara Cardoso"/><br>
+        <sub>
+          <b>Victor J. Alcântara Cardoso</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/larissafrodrigues" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/12631107?v=4" width="100px;" alt="Larissa F. Rodrigues Moreira"/><br>
+        <sub>
+          <b>Larissa F. Rodrigues Moreira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/romoreira" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/15040641?v=4" width="100px;" alt="Rodrigo Moreira"/><br>
+        <sub>
+          <b>Rodrigo Moreira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joaofmari" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/23125037?v=4" width="100px;" alt="João Fernando Mari"/><br>
+        <sub>
+          <b>João Fernando Mari</b>
+        </sub>
+      </a>
+    </td>   
+  </tr>
+</table>
