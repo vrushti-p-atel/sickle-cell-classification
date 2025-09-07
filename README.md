@@ -30,6 +30,36 @@ title = {Improving Sickle Cell Disease Classification: A Fusion of Conventional 
 ## Abstract
 Sickle cell anemia, which is characterized by abnormal erythrocyte morphology, can be detected using microscopic images. Computational techniques in medicine enhance the diagnosis and treatment efficiency. However, many computational techniques, particularly those based on Convolutional Neural Networks (CNNs), require high resources and time for training, highlighting the research opportunities in methods with low computational overhead. In this paper, we propose a novel approach combining conventional classifiers, segmented images, and CNNs for the automated classification of sickle cell disease. We evaluated the impact of segmented images on classification, providing insight into deep learning integration. Our results demonstrate that using segmented images and CNN features with an SVM achieves an accuracy of 96.80\%. This finding is relevant for computationally efficient scenarios, paving the way for future research and advancements in medical-image analysis.
 
+## 🚀 Web Application
+
+This project includes a Streamlit web application for real-time erythrocyte classification. The app allows users to upload microscopic images of red blood cells or test with sample images from the dataset.
+
+### Features
+- **Interactive Demo**: Test with sample images from each class
+- **File Upload**: Upload your own erythrocyte images
+- **Real-time Classification**: Instant results with confidence scores
+- **Educational Content**: Learn about sickle cell disease
+- **Medical Disclaimer**: Appropriate safety warnings
+
+### Local Development
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+streamlit run app.py
+```
+
+### Streamlit Cloud Deployment
+1. Fork this repository to your GitHub account
+2. Go to [share.streamlit.io](https://share.streamlit.io)
+3. Connect your GitHub account
+4. Select this repository
+5. Set the main file path to `app.py`
+6. Click Deploy!
+
+**Note**: The app requires the model files (`svm_model.pkl`) and sample dataset to be included in the repository for full functionality.
+
 ![Steps of the proposed approach](steps.png)
 
 ## Acknowledgment
